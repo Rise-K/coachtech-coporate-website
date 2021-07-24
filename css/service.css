@@ -190,8 +190,8 @@ header {
 }
 
 .service-contents {
-  max-width: 1150px;
-  margin-left: 20vw;
+  max-width: 950px;
+  margin: 0 auto;
 }
 
 .service1,
